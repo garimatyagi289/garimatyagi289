@@ -1,5 +1,7 @@
-# 💫 About Me:
-Cybersecurity and Web Development projects<br>Web Development, Cybersecurity and Hackathon projects<br>Cybersecurity, React and Backend Development<br>Cybersecurity, React, Node.js, Linux and DSA<br>Web Development, Cybersecurity and my projects<br>I love learning new technologies by building things! 🚀<br>
+I'm a B.Tech Cybersecurity student interested in Cybersecurity and Web Development. 🔐💻<br>
+Currently learning Linux, Networking, DSA, JavaScript and Backend Development.<br>
+I enjoy building projects, participating in hackathons and learning new technologies by doing. 🚀<br>
+Always curious, always learning, and always looking for opportunities to grow. 🌱
 
 
 ## 🌐 Socials:
